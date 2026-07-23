@@ -49,10 +49,13 @@ MyShop/
 │   ├── main.jsx
 │── package.json
 │── README.md
+│── README.md
+```
 
 ---
 
-##  Learning Outcomes
+
+## Learning Outcomes
 
 - React Functional Components
 - Component-based Architecture
